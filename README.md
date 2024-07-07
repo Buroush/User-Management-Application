@@ -56,7 +56,7 @@ Explore the intuitive interface of our User Management System:
    ```
 
 #### How to Build (howto_build.md)
-For detailed instructions on building and running the application, refer to [howto_build.md]()
+For detailed instructions on building and running the application, refer to [howto_build.md](https://github.com/Buroush/User-Management-Application/blob/main/User-Management-Application.md)
 
 ### How to Use the User Management System
 
