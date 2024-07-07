@@ -5,7 +5,7 @@ Welcome to the User Management System project, an open-source application design
 #### Screenshots
 Explore the intuitive interface of our User Management System:
 
-- ![Sign-in Screen](https://github.com/Buroush/User-Management-Application/blob/main/Image/https://github.com/Buroush/User-Management-Application/blob/main/Image/sign-in.png) 
+- ![Sign-in Screen](https://github.com/Buroush/User-Management-Application/blob/main/Image/sign-in.png) 
 - **Sign-in Screen**: Start your session securely.
   
 - ![User Dashboard](https://github.com/Buroush/User-Management-Application/blob/main/Image/dasbord-user2.png)
